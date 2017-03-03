@@ -1,9 +1,9 @@
-#include "Window.h"
-#include "Constants.h"
-#include "Texture.h"
-#include "Timer.h"
-#include "Mouse.h"
-#include "MazeSolver.h"
+#include "Include/Window.h"
+#include "Include/Constants.h"
+#include "Include/Texture.h"
+#include "Include/Timer.h"
+#include "Include/Mouse.h"
+#include "Include/MazeSolver.h"
 
 #include <sstream>
 #include <fstream>

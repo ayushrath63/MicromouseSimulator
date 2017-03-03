@@ -1,4 +1,4 @@
-#include "MazeSolver.h"
+#include "Include/MazeSolver.h"
 //////DEBUG
 #include <cstdio>
 

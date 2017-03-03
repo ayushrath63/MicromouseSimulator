@@ -1,5 +1,5 @@
-#include "Window.h"
-#include "Constants.h"
+#include "Include/Window.h"
+#include "Include/Constants.h"
 #include <sstream>
 
 extern SDL_Renderer* gRenderer;

@@ -1,7 +1,7 @@
 
-#include "Mouse.h"
-#include "Constants.h"
-#include "Texture.h"
+#include "Include/Mouse.h"
+#include "Include/Constants.h"
+#include "Include/Texture.h"
 
 extern LTexture gMouseTexture;
 

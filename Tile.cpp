@@ -1,6 +1,6 @@
-#include "Tile.h"
-#include "Texture.h"
-#include "Constants.h"
+#include "Include/Tile.h"
+#include "Include/Texture.h"
+#include "Include/Constants.h"
 
 extern LTexture gTileTexture;
 extern SDL_Rect gTileClips[TOTAL_TILE_SPRITES];
